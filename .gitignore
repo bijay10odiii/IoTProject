@@ -1,0 +1,62 @@
+# Python bytecode, caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments / env files
+.env
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Testing / typecheck / coverage
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+.mypy_cache/
+
+# Build / packaging
+build/
+dist/
+*.egg
+*.whl
+
+# Logs / temp
+logs/
+*.log
+tmp/
+temp/
+*.tmp
+
+# TensorFlow / Keras / model artifacts
+checkpoint
+checkpoints/
+saved_model.pb
+saved_model/
+variables/
+*.ckpt
+*.h5
+keras_metadata.pb
+
+# TensorBoard
+events.out.tfevents.*
+events.*
+
+
