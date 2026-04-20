@@ -1,0 +1,1 @@
+This folder contains all the task related to AI/ML. All the homeworks given and all my study about the topic is present in this folder.
