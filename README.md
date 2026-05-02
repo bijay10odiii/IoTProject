@@ -5,4 +5,5 @@ The topic contains: <br>
   <li>ML class Tasks</li>
   <li>Project</li>
   <li>Ui/Ux Design</li>
+  <li>Super Computer Course</li>
 </ul>
